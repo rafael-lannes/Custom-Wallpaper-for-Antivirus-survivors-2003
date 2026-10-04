@@ -1,0 +1,125 @@
+# STEAM GUIDE / GUIA DA STEAM
+# How to use Custom Wallpapers / Como usar Wallpapers Customizados
+# Game: Antivirus Survivors 2003 Professional
+# Author & Mod Tool Creator: Ranesu
+
+================================================================================
+ENGLISH VERSION (STEAM GUIDE)
+================================================================================
+
+[h1]How to Use Custom Wallpapers in Antivirus Survivors 2003 Professional[/h1]
+
+Ever wanted to turn your virtual 2003 operating system into your dream desktop? With this lightweight modding tool, you can easily set any picture (PNG, JPG, BMP, WEBP) as the home screen and default wallpaper!
+
+[b]Tool Created by:[/b] Ranesu  
+[b]GitHub Repository:[/b] [url=https://github.com/rafael-lannes/Custom-Wallpaper-for-Antivirus-survivors-2003]Custom Wallpaper for Antivirus Survivors 2003[/url]  
+[b]Download Releases:[/b] [url=https://github.com/rafael-lannes/Custom-Wallpaper-for-Antivirus-survivors-2003/releases]Download Latest Version (ZIP)[/url]  
+
+---
+
+[h2]Features[/h2]
+[list]
+[*] [b]One-Click Setup:[/b] No complex modding or manual file hex-editing required.
+[*] [b]Universal Format Support:[/b] Works with .png, .jpg, .jpeg, .bmp, and .webp.
+[*] [b]Native Godot 4 Optimization:[/b] Automatically converts your image into an authentic Godot 4 WebP compressed texture (GST2) with 10 mipmap levels at 768x480 resolution. Zero lag and clean retro CRT rendering.
+[*] [b]Automatic Safe Backup:[/b] Automatically generates a backup file (AVS03Pro.pck.bak) before applying changes.
+[*] [b]One-Click Restore:[/b] Revert back to the vanilla game wallpaper at any time with a single click.
+[/list]
+
+---
+
+[h2]Step-by-Step Tutorial[/h2]
+
+[h3]Step 1: Download the Tool[/h3]
+1. Go to the official GitHub Releases page:
+   [url=https://github.com/rafael-lannes/Custom-Wallpaper-for-Antivirus-survivors-2003/releases]https://github.com/rafael-lannes/Custom-Wallpaper-for-Antivirus-survivors-2003/releases[/url]
+2. Download [b]CustomWallpaper_AntivirusSurvivors2003_v1.0.zip[/b].
+3. Extract the ZIP anywhere on your computer (no installation needed).
+
+[h3]Step 2: Choose Your Custom Image[/h3]
+1. Run [b]CustomWallpaper.exe[/b].
+2. The game package path ([i]AVS03Pro.pck[/i]) is auto-detected. If your game is installed in a custom Steam library folder, click [b]Browse...[/b] and locate it.
+3. Click [b]Choose...[/b] and select any image from your computer.
+4. Check the live preview box to make sure you like how it looks.
+
+[h3]Step 3: Apply to Game[/h3]
+1. Click the blue [b]✓ Apply Wallpaper to Game[/b] button.
+2. A success popup will confirm that the wallpaper was patched into the game files.
+
+[h3]Step 4: Launch and Enjoy![/h3]
+Open [b]Antivirus Survivors 2003 Professional[/b] on Steam. Your new wallpaper will immediately appear on the desktop and home screen!
+
+---
+
+[h2]How to Restore the Original Wallpaper[/h2]
+If you ever want to revert back to the default unmodded wallpaper:
+1. Open [b]CustomWallpaper.exe[/b].
+2. Click [b]Restore Original (Backup)[/b].
+3. Confirm the prompt and the game file will be restored immediately.
+
+---
+
+[h2]Credits & Support[/h2]
+Mod tool developed by [b]Ranesu[/b].
+If you enjoyed this mod, please consider rating this guide with a thumbs up and adding it to your favorites!
+
+
+================================================================================
+VERSÃO EM PORTUGUÊS (GUIA DA STEAM)
+================================================================================
+
+[h1]Como Usar Wallpapers Customizados no Antivirus Survivors 2003 Professional[/h1]
+
+Sempre quis transformar a área de trabalho do seu sistema operacional virtual retrô no seu papel de parede favorito? Com esta ferramenta de modding simples e rápida, você pode colocar qualquer imagem (PNG, JPG, BMP, WEBP) na tela inicial e como papel de parede padrão do jogo!
+
+[b]Ferramenta Criada por:[/b] Ranesu  
+[b]Repositório no GitHub:[/b] [url=https://github.com/rafael-lannes/Custom-Wallpaper-for-Antivirus-survivors-2003]Custom Wallpaper for Antivirus Survivors 2003[/url]  
+[b]Download da Ferramenta:[/b] [url=https://github.com/rafael-lannes/Custom-Wallpaper-for-Antivirus-survivors-2003/releases]Baixar Última Versão (ZIP)[/url]  
+
+---
+
+[h2]Funcionalidades[/h2]
+[list]
+[*] [b]Aplicação em 1 Clique:[/b] Sem complicação e sem necessidade de editar arquivos manualmente.
+[*] [b]Suporte a Qualquer Imagem:[/b] Compatível com arquivos .png, .jpg, .jpeg, .bmp e .webp.
+[*] [b]Otimização Nativa Godot 4:[/b] Converte sua imagem para o formato nativo da engine (GST2 WebP comprimido com 10 níveis de mipmaps na proporção 768x480). Sem perda de desempenho e com ótima nitidez no monitor CRT do jogo.
+[*] [b]Backup Automático de Segurança:[/b] Cria uma cópia de segurança (AVS03Pro.pck.bak) automaticamente antes de qualquer alteração.
+[*] [b]Restauração com 1 Clique:[/b] Volte ao wallpaper original do jogo sempre que desejar.
+[/list]
+
+---
+
+[h2]Passo a Passo[/h2]
+
+[h3]Passo 1: Baixar a Ferramenta[/h3]
+1. Acesse a página oficial de lançamentos no GitHub:
+   [url=https://github.com/rafael-lannes/Custom-Wallpaper-for-Antivirus-survivors-2003/releases]https://github.com/rafael-lannes/Custom-Wallpaper-for-Antivirus-survivors-2003/releases[/url]
+2. Baixe o arquivo [b]CustomWallpaper_AntivirusSurvivors2003_v1.0.zip[/b].
+3. Extraia o ZIP em qualquer pasta do seu computador (não precisa instalar nada).
+
+[h3]Passo 2: Escolher sua Imagem[/h3]
+1. Dê um duplo clique em [b]CustomWallpaper.exe[/b].
+2. O caminho do arquivo do jogo ([i]AVS03Pro.pck[/i]) já vem pré-preenchido. Caso seu jogo esteja instalado em outra biblioteca da Steam, use o botão [b]Browse...[/b] para selecioná-lo.
+3. Clique em [b]Choose...[/b] e selecione a foto ou arte do seu computador.
+4. Veja a pré-visualização na tela para conferir o resultado.
+
+[h3]Passo 3: Aplicar no Jogo[/h3]
+1. Clique no botão azul [b]✓ Apply Wallpaper to Game[/b].
+2. Uma caixa de confirmação avisará que o wallpaper foi inserido com sucesso.
+
+[h3]Passo 4: Abra o Jogo e Aproveite![/h3]
+Inicie o [b]Antivirus Survivors 2003 Professional[/b] na Steam. O seu wallpaper customizado aparecerá imediatamente na área de trabalho e na tela inicial!
+
+---
+
+[h2]Como Restaurar o Wallpaper Original[/h2]
+Se quiser voltar ao wallpaper padrão do jogo:
+1. Abra o [b]CustomWallpaper.exe[/b].
+2. Clique no botão [b]Restore Original (Backup)[/b].
+3. Confirme a restauração e o jogo voltará ao estado original.
+
+---
+
+[h2]Créditos e Apoio[/h2]
+Ferramenta desenvolvida por [b]Ranesu[/b].
+Se o guia e a ferramenta foram úteis, não esqueça de avaliar positivamente com um gostei e favoritar aqui na Steam!
