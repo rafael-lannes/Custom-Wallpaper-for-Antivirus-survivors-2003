@@ -6,6 +6,14 @@ Created by **Ranesu**.
 
 ---
 
+## 📸 Screenshots
+
+| Tool Interface | Custom Image Selected & Preview |
+| :---: | :---: |
+| ![Tool Interface](screenshots/preview_empty.png) | ![Preview Selected](screenshots/preview_selected.png) |
+
+---
+
 ## 🌟 Features
 
 - **One-Click Wallpaper Injection:** Replaces the default desktop wallpaper (`treebliss`) directly inside the game package (`AVS03Pro.pck`).
@@ -20,7 +28,7 @@ Created by **Ranesu**.
 ## 📥 Installation & Download
 
 ### Option 1: Standalone Portable Executable (Recommended)
-1. Download `CustomWallpaper_AntivirusSurvivors2003.zip` from the latest [GitHub Releases](https://github.com/rafael-lannes/Custom-Wallpaper-for-Antivirus-survivors-2003/releases).
+1. Download `CustomWallpaper_AntivirusSurvivors2003_v1.0.zip` from the latest [GitHub Releases](https://github.com/rafael-lannes/Custom-Wallpaper-for-Antivirus-survivors-2003/releases).
 2. Extract the archive anywhere on your PC.
 3. Run `CustomWallpaper.exe`. No Python or extra installations required!
 
